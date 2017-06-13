@@ -10,3 +10,6 @@ Used to create a REPL in the console. Commands must be implimented with the REPL
 
 ### Levenshtein Distance
 Generates a list of words a certain edit distance from an word.
+
+### DB
+Class used to handle sql databases and sql queries for those databases.
