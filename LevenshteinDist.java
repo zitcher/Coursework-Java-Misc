@@ -28,7 +28,7 @@ public class LevenshteinDist {
    * Finds all words within a given edit distance from the given.
    * @param word The word to find similar words to.
    * @param dist The number of edits to search for a word within.
-   * @return A list of words withing the edit distance.
+   * @return A list of words within the edit distance.
    */
   public List<String> genLedList(String word, int dist) {
     //find words, hash to stop duplicates
